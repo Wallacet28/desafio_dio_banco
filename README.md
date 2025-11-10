@@ -1,8 +1,8 @@
 # 🐍 Desafio DIO Luizalabs: Sistema Bancário Modularizado (Back-end com Python)
 
-Este projeto consiste em um sistema bancário simplificado, operado via console (terminal). O código foi refatorado para adotar o **paradigma funcional** e as boas práticas de **modularização**, atendendo aos requisitos da Versão 2 (criação e vinculação de clientes e contas) do desafio.
+Este projeto consiste em um sistema bancário simplificado, operado via console (terminal). O código foi refatorado para adotar o **paradigma funcional** e as boas práticas de **modularização**, atendendo aos requisitos da Versão 1 (criação e vinculação de clientes e contas) do desafio.
 
-## ✨ Funcionalidades Implementadas (V2)
+## ✨ Funcionalidades Implementadas (V1)
 
 O sistema oferece as seguintes opções de operação:
 
